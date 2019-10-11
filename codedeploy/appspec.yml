@@ -1,0 +1,26 @@
+version: 0.0
+os: linux
+files:
+  - source: dist/${build.finalName}.jar
+    destination: /opt/${build.finalName}
+  - source: dist/application.conf
+    destination: /opt/${build.finalName}
+  - source: dist/application-logrotate
+    destination: /etc/logrotate.d
+permissions:
+  - object: /etc/logrotate.d/application-logrotate
+    mode: 644
+hooks:
+  ApplicationStop:
+    - location: scripts/stop_service.sh
+      timeout: 300
+  AfterInstall:
+    - location: scripts/install_service.sh
+    - location: scripts/set_env.sh
+      timeout: 300
+  ApplicationStart:
+    - location: scripts/start_service.sh
+      timeout: 300
+  ValidateService:
+    - location: scripts/validate_service.sh
+      timeout: 300

@@ -1,0 +1,9 @@
+cloud:
+  aws:
+    credentials:
+      instanceProfile: false
+    region:
+      auto: false
+      static: eu-central-1
+    stack:
+      auto: false

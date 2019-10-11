@@ -1,0 +1,11 @@
+/var/log/${build.finalName}/${build.finalName}.log {
+  daily
+  missingok
+  notifempty
+  rotate 7
+  copytruncate
+  dateext
+  compress
+  delaycompress
+  olddir /var/log/${build.finalName}/
+}

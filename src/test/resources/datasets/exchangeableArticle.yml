@@ -1,0 +1,586 @@
+exchangeable_article:
+  "@type": ExchangeableArticle
+  - articleId: Z00140165
+    articleType: CHILD
+    ean: '4057753124886'
+    netSuiteNumber: '144849'
+    wareHouse: false
+    brand: Zoro Selection
+    manufacturer: Fabory
+    mpn: '16829220001'
+    shopTemplate: 0
+    categoryList:
+    - categoryId: '1824747107'
+      catalogSystem: InitialPrimaryMaintenanceStructure
+    - categoryId: '1824747107'
+      catalogSystem: Magento
+    - categoryId: '7092'
+      catalogSystem: GoogleShopping
+    - categoryId: '170412'
+      catalogSystem: ebay_de
+    - categoryId: '29851'
+      catalogSystem: real_de
+    - categoryId: '2295'
+      catalogSystem: rakuten
+    categoryIdPathList:
+    - categoryPath: befestigung-beschlage/haken-ringbefestigungen/drahtseilbefestigungen
+      catalogSystem: Magento
+    categoryNamePathList:
+    - categoryPath: befestigung-beschlage/haken-ringbefestigungen/drahtseilbefestigungen
+      catalogSystem: Magento
+    categoryPathUrls:
+    - language: deu
+      url: befestigung-beschlage/haken-ringbefestigungen/drahtseilbefestigungen
+    categoryUrls:
+    - language: deu
+      url: drahtseilbefestigungen
+    articleNames:
+    - language: deu
+      contentType: NAME
+      value: Drahtseilklemmen Stahl verzinkt DIN 741 22mm 10Stk
+    - language: fra
+      contentType: NAME
+      value: Serre-câbles en acier galvanisé DIN 741 22mm 10pcs
+    - language: ita
+      contentType: NAME
+      value: Morsetti per funi metalliche in acciaio zincato DIN 741 22mm 10pz.
+    - language: esl
+      contentType: NAME
+      value: Abrazaderas de cable de acero galvanizado DIN 741 22mm 10pcs
+    articleContents:
+    - language: deu
+      contentType: LONG_DESCRIPTION
+      value: |-
+        <ul><li> Drahtseilklemmen Stahl verzinkt DIN 741  <li> Zoro.de - Sie profitieren vom Know How und besten Einkaufsverbindungen eines der weltweit größten Anbieter von Handwerksprodukten und Zubehör</li>
+        <li> Immer passend. Ihr gewünschtes Sortiment können Sie sich dank verschiedener Verpackungseinheiten individuell zusammenstellen. Wir machen dies für Sie möglich</li></ul>
+    - language: deu
+      contentType: META_TITLE
+      value: Zoro Selection Drahtseilklemmen Stahl verzinkt DIN 741 22mm 10Stk | Z00140165
+    - language: deu
+      contentType: META_DESCRIPTION
+      value: Drahtseilklemmen Stahl verzinkt DIN 741 22mm 10Stk von Zoro Selection - Drahtseilbefestigungen
+        einfach bestellen! Große Auswahl entdecken! ✔Fachhandel ✔Top-Preise ✔Schneller
+        Versand
+    - language: fra
+      contentType: META_TITLE
+      value: Zoro Selection Serre-câbles en acier galvanisé DIN 741 22mm 10pcs | Z00140165
+    - language: fra
+      contentType: META_DESCRIPTION
+      value: Serre-câbles en acier galvanisé DIN 741 22mm 10pcs von Zoro Selection - Drahtseilbefestigungen
+        einfach bestellen! Große Auswahl entdecken! ✔Fachhandel ✔Top-Preise ✔Schneller
+        Versand
+    - language: ita
+      contentType: META_TITLE
+      value: Zoro Selection Morsetti per funi metalliche in acciaio zincato DIN 741 22mm
+        10pz. | Z00140165
+    - language: ita
+      contentType: META_DESCRIPTION
+      value: Morsetti per funi metalliche in acciaio zincato DIN 741 22mm 10pz. von Zoro
+        Selection - Drahtseilbefestigungen einfach bestellen! Große Auswahl entdecken!
+        ✔Fachhandel ✔Top-Preise ✔Schneller Versand
+    - language: esl
+      contentType: META_TITLE
+      value: Zoro Selection Abrazaderas de cable de acero galvanizado DIN 741 22mm 10pcs
+               | Z00140165
+    - language: esl
+      contentType: META_DESCRIPTION
+      value: Abrazaderas de cable de acero galvanizado DIN 741 22mm 10pcs von Zoro Selection
+      - Drahtseilbefestigungen einfach bestellen! Große Auswahl entdecken! ✔Fachhandel
+        ✔Top-Preise ✔Schneller Versand
+    mimes:
+    - mimeSource: "/catalogs/115/1015/drahtseilklemme-din-741555-1987-stahl-elektrolytisch-verzinkt-22mm-10-stk-z00140165.jpg"
+      mimeQuality: ORIGINALIMAGE
+      mimeDescr:
+      mimeAlt:
+      mimePurpose: IMAGE_1
+      language: ''
+      mimeSize: 77741
+    - mimeSource: "/derivates/2/001/359/256/drahtseilklemme-din-741555-1987-stahl-elektrolytisch-verzinkt-22mm-10-stk-z00140165-small.jpg"
+      mimeQuality: SMALL
+      mimeDescr:
+      mimeAlt:
+      mimePurpose: IMAGE_1
+      language: ''
+      mimeSize: 3313
+    - mimeSource: "/derivates/3/001/359/256/drahtseilklemme-din-741555-1987-stahl-elektrolytisch-verzinkt-22mm-10-stk-z00140165-medium.jpg"
+      mimeQuality: MEDIUM
+      mimeDescr:
+      mimeAlt:
+      mimePurpose: IMAGE_1
+      language: ''
+      mimeSize: 16063
+    - mimeSource: "/derivates/5/001/359/256/drahtseilklemme-din-741555-1987-stahl-elektrolytisch-verzinkt-22mm-10-stk-z00140165-large.jpg"
+      mimeQuality: LARGE_PADDED
+      mimeDescr:
+      mimeAlt:
+      mimePurpose: IMAGE_1
+      language: ''
+      mimeSize: 40693
+    keywords: []
+    articleUrls:
+    - language: deu
+      url: drahtseilklemmen-zoro-selection-drahtseilklemme-din-741-555-1987-stahl-z00140165
+    attributes:
+    - order: 2147483647
+      name: Abmessung
+      values:
+      - 22MM
+      unit: ''
+      unitName: ''
+      types: []
+      language: deu
+      normalized: true
+    - order: 2147483647
+      name: B
+      values:
+      - '44'
+      unit: ''
+      unitName: ''
+      types: []
+      language: deu
+      normalized: true
+    - order: 2147483647
+      name: DIN
+      values:
+      - 741/555 (1987)
+      unit: ''
+      unitName: ''
+      types: []
+      language: deu
+      normalized: true
+    - order: 2147483647
+      name: T
+      values:
+      - '33'
+      unit: ''
+      unitName: ''
+      types: []
+      language: deu
+      normalized: true
+    - order: 2147483647
+      name: Titelpropertyset
+      values:
+      - Voor kabeldiam.
+      unit: ''
+      unitName: ''
+      types: []
+      language: deu
+      normalized: true
+    - order: 2147483647
+      name: a
+      values:
+      - '37'
+      unit: ''
+      unitName: ''
+      types: []
+      language: deu
+      normalized: true
+    - order: 2147483647
+      name: d1
+      values:
+      - M14
+      unit: ''
+      unitName: ''
+      types: []
+      language: deu
+      normalized: true
+    countryOfOrigin:
+    productId: '263080'
+    productStatus: ACTIVE
+    activeStatuses:
+    - channel: MAGENTO_DE
+      country: DE
+      active: true
+    - channel: EBAY_DE
+      country: DE
+      active: true
+    - channel: AMAZON_DE
+      country: DE
+      active: false
+    - channel: BILLIGER_DE
+      country: DE
+      active: true
+    - channel: PREIS_DE
+      country: DE
+      active: true
+    - channel: BING
+      country: DE
+      active: true
+    - channel: IDEALO_DE
+      country: DE
+      active: true
+    - channel: GOOGLE_SHOPPING
+      country: DE
+      active: true
+    - channel: CRITEO
+      country: DE
+      active: true
+    - channel: AFFILINET
+      country: DE
+      active: true
+    - channel: GUENSTIGER_DE
+      country: DE
+      active: true
+    - channel: FACEBOOK
+      country: DE
+      active: true
+    - channel: RAKUTEN
+      country: DE
+      active: true
+    - channel: CROWDFOX
+      country: DE
+      active: true
+    - channel: CHECK24
+      country: DE
+      active: true
+    - channel: MANOMANO
+      country: DE
+      active: true
+    - channel: WLW
+      country: DE
+      active: true
+    - channel: REAL_DE
+      country: DE
+      active: true
+    - channel: GEIZHALS
+      country: DE
+      active: true
+    - channel: MOEBEL_DE
+      country: DE
+      active: false
+    - channel: AMAZON_FR
+      country: DE
+      active: false
+    - channel: MANOMANO_FR
+      country: DE
+      active: false
+    - channel: CDISCOUNT
+      country: DE
+      active: false
+    - channel: EBAY_FR
+      country: DE
+      active: false
+    forwardingAgency: false
+    taxClasses:
+    - country: FR
+      tax: FULL
+    - country: DE
+      tax: FULL
+    - country: GB
+      tax:
+    - country: IT
+      tax: FULL
+    - country: DK
+      tax:
+    - country: BE
+      tax:
+    - country: NL
+      tax:
+    - country: ES
+      tax:
+    - country: AT
+      tax: FULL
+    salesPrices:
+    - channel: EBAY_IT
+      salePriceType: NET_CUSTOMER_PRICE
+      validFromDate: 1551225600000
+      validToDate: 253402214400000
+      value: 11.41
+      currency: EUR
+      validForMoment: true
+      validForMomente: true
+    - channel: Hood DE
+      salePriceType: NET_CUSTOMER_PRICE
+      validFromDate: 1551225600000
+      validToDate: 253402214400000
+      value: 11.3
+      currency: EUR
+      validForMoment: true
+      validForMomente: true
+    - channel: RAKUTEN
+      salePriceType: NET_CUSTOMER_PRICE
+      validFromDate: 1551225600000
+      validToDate: 253402214400000
+      value: 11
+      currency: EUR
+      validForMoment: true
+      validForMomente: true
+    - channel: AMAZON_IT
+      salePriceType: NET_CUSTOMER_PRICE
+      validFromDate: 1551225600000
+      validToDate: 253402214400000
+      value: 11.68
+      currency: EUR
+      validForMoment: true
+      validForMomente: true
+    - channel: CHECK24
+      salePriceType: NET_CUSTOMER_PRICE
+      validFromDate: 1552608000000
+      validToDate: 253402214400000
+      value: 15.43
+      currency: EUR
+      validForMoment: true
+      validForMomente: true
+    - channel: EBAY_DE
+      salePriceType: NET_CUSTOMER_PRICE
+      validFromDate: 1552608000000
+      validToDate: 253402214400000
+      value: 11.87
+      currency: EUR
+      validForMoment: true
+      validForMomente: true
+    - channel: CDISCOUNT
+      salePriceType: NET_CUSTOMER_PRICE
+      validFromDate: 1552608000000
+      validToDate: 253402214400000
+      value: 11.83
+      currency: EUR
+      validForMoment: true
+      validForMomente: true
+    - channel: MAGENTO_DE
+      salePriceType: NET_CUSTOMER_PRICE
+      validFromDate: 1552608000000
+      validToDate: 253402214400000
+      value: 17.64
+      currency: EUR
+      validForMoment: true
+      validForMomente: true
+    - channel: AMAZON_DE
+      salePriceType: NET_CUSTOMER_PRICE
+      validFromDate: 1552608000000
+      validToDate: 253402214400000
+      value: 17.64
+      currency: EUR
+      validForMoment: true
+      validForMomente: true
+    - channel: EBAY_FR
+      salePriceType: NET_CUSTOMER_PRICE
+      validFromDate: 1552608000000
+      validToDate: 253402214400000
+      value: 11.87
+      currency: EUR
+      validForMoment: true
+      validForMomente: true
+    - channel: SAP_ARIBA
+      salePriceType: NET_CUSTOMER_PRICE
+      validFromDate: 1552608000000
+      validToDate: 253402214400000
+      value: 10.83
+      currency: EUR
+      validForMoment: true
+      validForMomente: true
+    - channel: PRICEMINISTER
+      salePriceType: NET_CUSTOMER_PRICE
+      validFromDate: 1552608000000
+      validToDate: 253402214400000
+      value: 11.2
+      currency: EUR
+      validForMoment: true
+      validForMomente: true
+    - channel: AMAZON_FR
+      salePriceType: NET_CUSTOMER_PRICE
+      validFromDate: 1552608000000
+      validToDate: 253402214400000
+      value: 17.64
+      currency: EUR
+      validForMoment: true
+      validForMomente: true
+    - channel: MANOMANO
+      salePriceType: NET_CUSTOMER_PRICE
+      validFromDate: 1552608000000
+      validToDate: 253402214400000
+      value: 10.8
+      currency: EUR
+      validForMoment: true
+      validForMomente: true
+    - channel: CROWDFOX
+      salePriceType: NET_CUSTOMER_PRICE
+      validFromDate: 1552608000000
+      validToDate: 253402214400000
+      value: 11.53
+      currency: EUR
+      validForMoment: true
+      validForMomente: true
+    - channel: IDEALO_DE
+      salePriceType: NET_CUSTOMER_PRICE
+      validFromDate: 1552608000000
+      validToDate: 253402214400000
+      value: 17.64
+      currency: EUR
+      validForMoment: true
+      validForMomente: true
+    - channel: COUPA
+      salePriceType: NET_CUSTOMER_PRICE
+      validFromDate: 1552608000000
+      validToDate: 253402214400000
+      value: 10.43
+      currency: EUR
+      validForMoment: true
+      validForMomente: true
+    - channel: MANOMANO_FR
+      salePriceType: NET_CUSTOMER_PRICE
+      validFromDate: 1552608000000
+      validToDate: 253402214400000
+      value: 11.83
+      currency: EUR
+      validForMoment: true
+      validForMomente: true
+    - channel: REAL_DE
+      salePriceType: NET_CUSTOMER_PRICE
+      validFromDate: 1552608000000
+      validToDate: 253402214400000
+      value: 12.06
+      currency: EUR
+      validForMoment: true
+      validForMomente: true
+    - channel: GHX
+      salePriceType: NET_CUSTOMER_PRICE
+      validFromDate: 1552608000000
+      validToDate: 253402214400000
+      value: 10.12
+      currency: EUR
+      validForMoment: true
+      validForMomente: true
+    - channel: CROWDFOX_PROFESSIONAL
+      salePriceType: NET_CUSTOMER_PRICE
+      validFromDate: 1552608000000
+      validToDate: 253402214400000
+      value: 10.41
+      currency: EUR
+      validForMoment: true
+      validForMomente: true
+    supplierName: FABORY
+    mainSupplierId: 51
+    status:
+    orderUnit: PA
+    contentUnit: C62
+    noCuPerOu: 10
+    quantityMin: 1
+    quantityInterval: 1
+    deliveryTime: 2
+    freeShipping: false
+    energyConsumptionClass:
+    basePriceUnit:
+    basePriceAmount:
+    basePriceBaseUnit:
+    basePriceFactor:
+    pricingMarker:
+    - channel: MAGENTO_DE
+      value: '0'
+    marketingMarker: []
+    numberOfOrderLines: 0
+    performanceMarker: 8
+    supplierRelations:
+    - supplierId: 51
+      supplierName: Fabory
+      supplierShortName: FABORY
+      supplierAid: '16829220001'
+      active: true
+      supplierNexmartId: ''
+      nexmartRetailChannel: false
+      businessModel: DROPSHIP
+      supplierType: SUPPLIER
+    vouchers:
+    - channel: BILLIGER_DE
+      code: ZORO75
+      text: 7,5% Rabatt auf alle Artikel!
+      voucherType: PERCENTAGE_SHARE
+      validToDate: 1550447999000
+      value: 7.5
+    - channel: PREIS_DE
+      code: SPAR10
+      text: 10% Rabatt auf alle Artikel!
+      voucherType: PERCENTAGE_SHARE
+      validToDate: 1552262399000
+      value: 10
+    - channel: BING
+      code: ''
+      text: ''
+      voucherType:
+      validToDate:
+      value:
+    - channel: IDEALO_DE
+      code: SPAR10
+      text: 10% Rabatt auf alle Artikel bei zoro.de!
+      voucherType: PERCENTAGE_SHARE
+      validToDate: 1552867199000
+      value: 10
+    - channel: GOOGLE_SHOPPING
+      code: ''
+      text: 15€ ab 200€
+      voucherType: FIXED_AMOUNT
+      validToDate: 1548287999000
+      value:
+    brandBlacklist:
+    - quality brand
+    - zoro selection
+    adwordCampaign: lv2 FABORY
+    adwordsGroup:
+    stock:
+    active: true
+    availableForCounty:
+      DE: true
+      BE: false
+      AT: false
+      DK: false
+      GB: false
+      IT: false
+      FR: false
+      NL: false
+      ES: false
+    blockedForChannel:
+      BILLIGER_DE: false
+      MOEBEL_DE: true
+      FACEBOOK: false
+      MAGENTO_DE: false
+      GOOGLE_SHOPPING: false
+      MANOMANO: false
+      IDEALO_DE: false
+      RAKUTEN: false
+      AMAZON_DE: true
+      GUENSTIGER_DE: false
+      REAL_DE: false
+      MANOMANO_FR: true
+      AFFILINET: false
+      CRITEO: false
+      CDISCOUNT: true
+      EBAY_FR: true
+      WLW: false
+      EBAY_DE: false
+      CROWDFOX: false
+      CHECK24: false
+      BING: false
+      GEIZHALS: false
+      AMAZON_FR: true
+      PREIS_DE: false
+    images:
+    - mimeSource: "/catalogs/115/1015/drahtseilklemme-din-741555-1987-stahl-elektrolytisch-verzinkt-22mm-10-stk-z00140165.jpg"
+      mimeQuality: ORIGINALIMAGE
+      mimeDescr:
+      mimeAlt:
+      mimePurpose: IMAGE_1
+      language: ''
+      mimeSize: 77741
+    - mimeSource: "/derivates/2/001/359/256/drahtseilklemme-din-741555-1987-stahl-elektrolytisch-verzinkt-22mm-10-stk-z00140165-small.jpg"
+      mimeQuality: SMALL
+      mimeDescr:
+      mimeAlt:
+      mimePurpose: IMAGE_1
+      language: ''
+      mimeSize: 3313
+    - mimeSource: "/derivates/3/001/359/256/drahtseilklemme-din-741555-1987-stahl-elektrolytisch-verzinkt-22mm-10-stk-z00140165-medium.jpg"
+      mimeQuality: MEDIUM
+      mimeDescr:
+      mimeAlt:
+      mimePurpose: IMAGE_1
+      language: ''
+      mimeSize: 16063
+    - mimeSource: "/derivates/5/001/359/256/drahtseilklemme-din-741555-1987-stahl-elektrolytisch-verzinkt-22mm-10-stk-z00140165-large.jpg"
+      mimeQuality: LARGE_PADDED
+      mimeDescr:
+      mimeAlt:
+      mimePurpose: IMAGE_1
+      language: ''
+      mimeSize: 40693
+    documentMimes: []
+
